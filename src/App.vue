@@ -1,5 +1,5 @@
 <template>
-  <Select> </Select>
+  <Select />
 </template>
 
 <script>
@@ -14,6 +14,11 @@ export default {
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Lalezar&display=swap");
+
+* {
+  font-family: "Lalezar", cursive;
+}
 body {
   margin: 0 !important;
   padding: 0 !important;
@@ -23,8 +28,10 @@ body {
   height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   background-color: #bee3db;
   color: #555b6e;
+  font-size: x-large;
+  padding: 150px 0px;
 }
 </style>
