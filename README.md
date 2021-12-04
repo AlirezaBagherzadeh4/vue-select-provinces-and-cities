@@ -1,5 +1,6 @@
 # provinces-and-cities
-
+  The province and citis json files are from ```https://github.com/sajaddp/list-of-cities-in-Iran``` repository. 
+  
 ## Project setup
 ```
 npm install
