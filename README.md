@@ -1,5 +1,5 @@
 # provinces-and-cities
-  The province and cities json files are used from https://github.com/sajaddp/list-of-cities-in-Iran repository. 
+  The provinces and cities json files are used from https://github.com/sajaddp/list-of-cities-in-Iran repository. 
   
 ## Project setup
 ```
